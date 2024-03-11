@@ -3,7 +3,7 @@ The objective of Car Parking is to establish a platform connecting parking admin
 community with users seeking affordable parking spaces. This website assists parking admins in
 ren+ng out their additional parking spaces, enabling them to earn extra income. Additionally, it
 facilitates users in finding cost—effec+ve parking spaces. Both users and parking admins must
-register and create a profile on the website. Parking admins can post lis+ngs of their parking spots
+register and create a profile on the website. Parking admins can see 
 with availability schedules, locations, and prices. Users looking for parking spots can
 search and book them based on availability. Also, the admin will be managing both users' accounts
 and their profiles. Addi+onality, the admin can block any users and delete any users.
